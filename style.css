@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    background-color: gainsboro;
+    font-family: 'coda', cursive;
+}
+
+.main {
+    margin: 5vh auto;
+    width: 35vw;
+}
+.info .nationality {
+    position: absolute;
+    margin: 1.1% 0 0 28.4%;
+    font-size: 1.7vw;
+}
+.info img {
+    position: absolute;
+    margin: 3% 0 0 26.8%;
+    width: 6.3%;
+}
+.info .year {
+    position: absolute;
+    margin: 9% 0 0 27.7%;
+    font-size: 2vw;
+    color: whitesmoke;
+}
+.info .height {
+    position: absolute;
+    margin: 15.4% 0 0 26.7%;
+    font-size: 2.2vw;
+    color: whitesmoke;
+}
+.info .weight {
+    position: absolute;
+    margin: 15.4% 0 0 30.7%;
+    font-size: 2.2vw;
+    color: whitesmoke;
+}
+.one img {
+    position: absolute;
+    margin: 6% 0 0 0;
+    width: 35%;
+
+}
+.one h1 {
+    position: absolute;
+    margin: 36.7% 0 0 4.5%;
+    font-size: 4vw;
+}
+.one p {
+    position: absolute;
+    margin: 42% 13.2%;
+    color: whitesmoke;
+    font-size: 2vw;
+}
+.cromo img {
+    border: 1px solid darkorange;
+    width: 100%;
+}
